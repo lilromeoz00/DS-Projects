@@ -1,0 +1,1 @@
+### My Dad is a cyber operations officer for the US Air Force which means I have been surrounded by cyber security based tech for a long time. Though hacking is cool, I always wondered how data encrpytion worked and what are other ways someone could make their own encryption to be basically uncrackable. I'll be trying to do that in this project.
