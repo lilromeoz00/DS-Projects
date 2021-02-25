@@ -5,8 +5,8 @@
 ### 3. Find your .jupyter files (In \users usually) and right-click edit the notebook_config.py file
 ### 4. Cntrl F and find "NotebookApp.notebook_dir"
 ### 5. Inside that line, Uncomment and Unindent the line.
-### 6. Where you the the = '' you need to put your directory of choice which hosts your files
-### 6b Ex. c.NotebookApp.notebook_dir = r'C:\Users\jordan'
+### 6. Where you see the = '' you need to put your directory of choice which hosts your files
+### 6b Ex. c.NotebookApp.notebook_dir = r'C:\Users\jordan' (That's where the usually jupyter keeps mine)
 ### 7. Go to "C:\ProgramData\Anaconda3\Scripts\activate.bat" and right-click copy it. Rename it "activate_jupyter.bat"
 ### 8. Open your new bat file and at the very bottom right before ":End", insert "@CALL jupyter notebook"
 ### 9. Save and close your new bat file
