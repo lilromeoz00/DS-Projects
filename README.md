@@ -2,4 +2,4 @@
 ## Ill eventually turn this into a github page & streamlit all the projects
 ## Email me at JordanMooreNav@gmail.com for questions
 
-ideas : Cancer detector CNN, Neural Cryptography, Colorize black and white photos
+ideas : Cancer detector CNN (how original jordan..), Neural Cryptography, Colorize black and white photos, RL & Games (Genetic Algo, Deep-Q, etc: Later later on kind of project)
