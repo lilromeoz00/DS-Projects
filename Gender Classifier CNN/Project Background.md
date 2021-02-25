@@ -1,1 +1,2 @@
-
+### I used a dataset of facial images which were classified as Male or Female along with an age. I augmented the images to increase training size and generalization. I sued a similar style of CNN as the emotion detector except I doubled the amount of convolution layers. This lead to a validation accuracy around 93% which was higher than my training accuracy (nice, no overfitting). Plotted some of it's errors and was stumped on a few of them myself. (At least it knew I was a guy)
+### I figure I could use the same ensembling method I did for the mnist data to get an even higher accuracy. It would take alot longer to train though so it will have to be a project for a later time. 
