@@ -1,2 +1,2 @@
-### Autoencoders are pretty neat for a lot of reasons but this project is mainly just for fun and to show the power of neural networks. You'll see a noisy dataset become pristine again through the power of autoencoders. Hope you enjoy!
-### Start
+### Autoencoders are pretty neat for a lot of reasons but this project is mainly just for fun and to show the power of neural networks. You'll see a noisy dataset become pristine again through the power of autoencoders. Hope you enjoy! (The VAE doesn't give nice looking images but it works though!!! Proof of concept means with more training it'll work like a charm)
+### I could not tell the noisy data apart from each other. I could maybe differ pants and jackets, maybe shoes. The data cleaner did a 
