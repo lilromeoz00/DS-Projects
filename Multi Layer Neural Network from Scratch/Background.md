@@ -1,2 +1,2 @@
-### Were getting to the fun stuff now. Lets build what I actually use for basic models and then try to add things on top of it (dropout and my fav batch normalization maybe?)
-### I really want to try this model out on a real dataset and see what it can come up with accuracy wise. TBD
+### Were getting to the fun stuff now. Lets build what I actually use for basic models and then try to add things on top of it (dropout & others maybe?)
+### I tried this out on the mnist dataset and got an accuracy of 98.04% That's pretty cool considerind top CNNs are within 1.5% points. I'll try to add dropout in future iterations. 
