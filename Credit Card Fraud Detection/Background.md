@@ -3,3 +3,4 @@
 ### I found something pretty weird though, no matter my epoch number, my best accuracy comes from Epoch 1. I wonder why..
 ### ~~Further digging suggests that I have no clue why it gave me 99% accuracy. I copied the entire model and redid it under a new name and it started at 49% accuracy.~~
 ### Even more digging I found out the second model was not training well because I din't "refresh" my callback and optimization functions. With this fix, I was reaching val acc of 99.8 again. I'll do some more experimenting to see how good I can get it. 
+### Wow FINAL fix before I leave this project!!! Found some Major developments which lead me to get accuracy upwards of 99.99%! The findings led me to ditch my NN and try stuff like RandomForest & XGBoost. With cross validation XGBoost gave me an overall test set accuracy of 99.995% Amazing!
