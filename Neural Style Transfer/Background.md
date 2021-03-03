@@ -1,1 +1,2 @@
-
+### Praise be to trained models!!! I kind of see it as cheating but oh boy are they easy to use. I saw a website online a couple years back that would turn any picture you gave it into spaghetti and I was amazed. I'm going to try and recreate that here, but with all the hard stuff done for me :)
+### In the future I would like to try and create a model by myself and see what kinds of results I get, But that would take up alot of training time. Hope you enjoyed this, feel free to copy the code and try your own images!
